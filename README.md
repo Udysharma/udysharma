@@ -1,111 +1,83 @@
-<div align="center">
+<h1 align="center">
+  Hi 👋, I'm Uday Sharma
+</h1>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=6,11,20&text=Uday%20Sharma&fontSize=65&fontColor=ffffff&animation=twinkling"/>
-
-<h1>👋 Hi, I'm Uday Sharma</h1>
-
-<h3>💻 Software Engineer | Full Stack Developer | DevOps | Cloud | AI</h3>
+<h3 align="center">
+🚀 Computer Science Student | AI Engineer | DevOps Enthusiast | Cyber Security
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;AWS+Cloud+%7C+DevOps;Machine+Learning+Enthusiast;Building+Scalable+Applications"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=800&center=true&vCenter=true&width=900&lines=AI+Developer;Machine+Learning+Engineer;Spring+Boot+Developer;DevOps+Enthusiast;Cyber+Security+Learner;Linux+Power+User" />
 </p>
 
-<br>
+---
 
-<a href="https://udaysharma.me">
-<img src="https://img.shields.io/badge/🌐Portfolio-Visit-blue?style=for-the-badge"/>
-</a>
+# 💻 About Me
 
-<a href="https://www.linkedin.com/in/udysharma">
-<img src="https://img.shields.io/badge/LinkedIn-Uday%20Sharma-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+<img align="right" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWF2aDBrN2JhbzMwOGk0NmNwa3ptYmRzMG80Z2t5dTB5dDFvMGNzZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378c04F2fjeZ7vH2/giphy.gif"/>
 
-<a href="https://github.com/Udysharma">
-<img src="https://img.shields.io/badge/GitHub-Udysharma-181717?style=for-the-badge&logo=github"/>
-</a>
+🎓 B.Tech Computer Science
 
-<a href="mailto:udaysharma6x@gmail.com">
-<img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
+🤖 Building AI Applications
 
-</div>
+🦷 Dental AI Detection Project
+
+☁ AWS Cloud Practitioner
+
+🐳 Docker & Linux
+
+🌱 Currently Learning
+
+- Kubernetes
+- CI/CD
+- Agentic AI
+- Spring Boot
+- React
+- Next.js
 
 ---
 
-# 🚀 About Me
-
-<img align="right" width="350" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
-
-🎓 B.Tech Computer Science Student
-
-💻 Full Stack Developer
-
-☁ AWS Cloud Enthusiast
-
-⚙ DevOps Learner
-
-🤖 Machine Learning Explorer
-
-🔐 Cyber Security Enthusiast
-
-🌱 Always learning new technologies
-
----
-
-# 🌍 Portfolio
-
-## 🚀 https://udaysharma.me
-
----
-
-# 💻 Tech Stack
+# 🚀 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,nodejs,express,tailwind,js,ts,python,cpp,mongodb,postgres,mysql,docker,git,github,linux,aws,vscode"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,typescript"/><br>
+
+<img src="https://skillicons.dev/icons?i=spring,react,nextjs,nodejs,express,mongodb,mysql,postgres"/><br>
+
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,git,github,vscode"/>
 
 </p>
 
 ---
 
-# 🔥 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🦷 Dental AI Detection | YOLO-based Dental Anomaly Detection |
-| 🌐 Personal Portfolio | React + Vite + Tailwind |
-| ☁ AWS Projects | Cloud Labs & DevOps |
-| 🏠 MERN Projects | Full Stack Applications |
-
----
-
-# 📈 GitHub Statistics
+# 📈 GitHub Stats
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Udysharma&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Udysharma&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 📊 Most Used Languages
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udysharma&layout=compact&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 🐍 Contribution Snake
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Udysharma&theme=tokyo-night"/>
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -115,64 +87,47 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Udysharma&theme=tokyonight&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&column=4&margin-w=15"/>
 
 </p>
 
 ---
 
-# 💻 Coding Life
+# 📊 Activity Graph
 
 <p align="center">
 
-<img width="450" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
 
 </p>
 
 ---
 
-# ☕ Coffee + Code
+# 🚀 Featured Projects
 
-<p align="center">
-
-<img width="300" src="https://media.tenor.com/bCfpwMjfAi0AAAAd/cat-typing.gif"/>
-
-</p>
-
----
-
-# 🚀 Currently Learning
-
-```text
-███████████████████████████  Spring Boot
-
-████████████████████████░░░  AWS
-
-███████████████████████░░░░  Docker
-
-█████████████████████░░░░░░  Kubernetes
-
-████████████████████████░░░  DevOps
-
-█████████████████████████░░  Machine Learning
-```
+| Project | Description |
+|---------|-------------|
+| 🦷 Dental AI | Detect dental anomalies using YOLO |
+| 🌐 Real Estate | MERN Stack Property Booking |
+| ☁ AWS Labs | Cloud Projects |
+| 🔐 Cyber Security | Networking & Security |
 
 ---
 
-# 📫 Connect With Me
+# 🌐 Connect with Me
 
 <p align="center">
 
-<a href="https://udaysharma.me">
-<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://www.linkedin.com/in/udysharma">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="mailto:udaysharma6x@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Mail-red?style=for-the-badge&logo=gmail"/>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 </p>
@@ -181,18 +136,6 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Udysharma&style=for-the-badge&color=blue"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DBDE,100:FC00FF&height=120&section=footer"/>
 
 </p>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-<img width="250" src="https://media.tenor.com/QTfX9Ejfra3ZmNxh6BAAAAC/computer.gif"/>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=gradient&customColorList=6,11,20"/>
