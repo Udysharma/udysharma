@@ -1,4 +1,8 @@
 <p align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=Uday%20Sharma&fontColor=00F7FF&color=0:000000,100:7B68EE&animation=twinkling"/>
+</p>
+<p align="center">
+  
   <img src="https://user-images.githubusercontent.com/74038190/212749695-0429a916-2c0f-4bb8-b7e7-5f2d2f5e7d87.gif" width="100%" alt="Banner"/>
 </p>
 
