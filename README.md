@@ -1,21 +1,19 @@
 <!-- Animated Banner -->
 <p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6a11cb,100:2575fc&text=Uday%20Sharma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=800&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Developer;Spring+Boot+Developer;DevOps+Enthusiast;Cyber+Security+Learner;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Uday+Sharma;AI+%7C+Machine+Learning+Engineer;Spring+Boot+Developer;DevOps+Enthusiast;Cyber+Security+Learner;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
-<!-- Coding GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="650" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="700" alt="Coding GIF" />
 </p>
 
-<!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=udysharma&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
 <h1 align="center">
   Hi 👋, I'm Uday Sharma
