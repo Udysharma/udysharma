@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%" alt="Matrix Banner"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Uday Sharma</h1>
@@ -9,11 +9,11 @@ Computer Science Student • AI Enthusiast • Full Stack Developer • DevOps L
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;AI+%7C+Machine+Learning;Spring+Boot+Developer;MERN+Stack+Developer;Linux+%7C+DevOps+%7C+AWS;Cyber+Security+Learner;Always+Learning+Something+New!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;AI+%7C+Machine+Learning;Spring+Boot+Developer;MERN+Stack+Developer;Linux+%7C+DevOps+%7C+AWS;Cyber+Security+Learner;Always+Learning+Something+New!" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Udysharma&style=for-the-badge&color=blueviolet" />
+  <img src="https://komarev.com/ghpvc/?username=Udysharma&style=for-the-badge&color=blueviolet"/>
   <img src="https://img.shields.io/github/followers/Udysharma?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/github/stars/Udysharma?style=for-the-badge&logo=github"/>
 </p>
@@ -25,18 +25,18 @@ Computer Science Student • AI Enthusiast • Full Stack Developer • DevOps L
 # 🚀 About Me
 
 - 🎓 B.Tech Computer Science Student
-- 🤖 AI & Machine Learning Enthusiast
+- 🤖 Passionate about AI & Machine Learning
 - 💻 Full Stack Developer
-- 🌱 Learning Spring Boot, Docker, Kubernetes & AWS
-- ☁️ DevOps & Cloud Computing
+- 🌱 Currently Learning Spring Boot, Docker, Kubernetes & AWS
+- ☁️ DevOps Enthusiast
 - 🔐 Cyber Security Learner
-- 🐧 Linux Enthusiast
-- 🚀 Building Real World Projects
+- 🐧 Linux Lover
+- 🚀 Love Building Real World Projects
 
 ---
 
 <p align="center">
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="650"/>
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="650">
 </p>
 
 # 💻 Tech Stack
@@ -49,26 +49,27 @@ Computer Science Student • AI Enthusiast • Full Stack Developer • DevOps L
 
 # 🛠 Current Projects
 
-- 🦷 AI Powered Dental Disease Detection
+- 🦷 Dental AI Detection
 - 🤖 Computer Vision
-- 📊 Deep Learning
+- 📊 Machine Learning
 - ☁️ Cloud Deployment
-- 🚀 Full Stack Web Applications
+- 🚀 Full Stack Applications
 
 ---
 
 <p align="center">
-<img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" width="700"/>
+<img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" width="700">
 </p>
 
-# 📊 GitHub Stats
+# 📊 GitHub Summary
 
 <p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Udysharma&theme=tokyonight" width="100%">
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Udysharma&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=Udysharma&theme=tokyonight&hide_border=true"/>
-
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Udysharma&theme=tokyonight" width="48%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Udysharma&theme=tokyonight&utcOffset=5.5" width="48%">
 </p>
 
 ---
@@ -76,19 +77,16 @@ Computer Science Student • AI Enthusiast • Full Stack Developer • DevOps L
 # 💻 Most Used Languages
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udysharma&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Udysharma&theme=tokyonight" width="48%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Udysharma&theme=tokyonight" width="48%">
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Udysharma&theme=algolia&no-frame=true&no-bg=true&margin-w=15"/>
-
+<img src="https://streak-stats.demolab.com?user=Udysharma&theme=tokyonight&hide_border=true">
 </p>
 
 ---
@@ -96,25 +94,29 @@ Computer Science Student • AI Enthusiast • Full Stack Developer • DevOps L
 # 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Udysharma&theme=tokyo-night&hide_border=true"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Udysharma&theme=tokyo-night&hide_border=true">
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+# 🏅 GitHub Achievements
 
 <p align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=Udysharma&limit=5&theme=tokyonight&combine_all_yearly_contributions=true">
+</p>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+---
 
+# 📂 Featured Technologies
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,nodejs,mongodb,postgres,docker,kubernetes,aws,linux,git,github"/>
 </p>
 
 ---
 
 <p align="center">
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600">
 </p>
 
 # 🌐 Connect With Me
@@ -137,18 +139,16 @@ Computer Science Student • AI Enthusiast • Full Stack Developer • DevOps L
 
 ---
 
-# 💡 Random Dev Quote
+# 👀 Visitor Counter
 
 <p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
+<img src="https://komarev.com/ghpvc/?username=Udysharma&style=for-the-badge&color=blueviolet">
 </p>
 
 ---
 
 <p align="center">
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="320"/>
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="320">
 </p>
 
 <h2 align="center">
