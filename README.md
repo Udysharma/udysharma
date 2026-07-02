@@ -1,5 +1,9 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749695-0429a916-2c0f-4bb8-b7e7-5f2d2f5e7d87.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00F7FF,50:7B68EE,100:000000&text=Uday%20Sharma&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20DevOps%20Learner&descAlignY=60&descSize=18"/>
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/240885420-1e8f4d83-6d6d-4e5d-9cf0-febedc65d4fb.gif" width="100%">
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212749695-0429a916-2c0f-4bb8-b7e7-5f2d2f5e7d87.gif" width="100%" alt="Banner"/>
