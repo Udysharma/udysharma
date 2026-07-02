@@ -1,151 +1,130 @@
-<!-- Animated Banner -->
-<p align="center">
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6a11cb,100:2575fc&text=Uday%20Sharma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Uday+Sharma;AI+%7C+Machine+Learning+Engineer;Spring+Boot+Developer;DevOps+Enthusiast;Cyber+Security+Learner;Open+Source+Contributor" alt="Typing SVG" />
-</p>
+# > whoami
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="700" alt="Coding GIF" />
-</p>
+```bash
+$ whoami
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=udysharma&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</p>
-<h1 align="center">
-  Hi 👋, I'm Uday Sharma
-</h1>
+Uday Sharma
 
-<h3 align="center">
-🚀 Computer Science Student | AI Engineer | DevOps Enthusiast | Cyber Security
-</h3>
+Software Engineer
+Full Stack Developer
+Cloud & DevOps Enthusiast
+AI Explorer
+```
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=800&center=true&vCenter=true&width=900&lines=AI+Developer;Machine+Learning+Engineer;Spring+Boot+Developer;DevOps+Enthusiast;Cyber+Security+Learner;Linux+Power+User" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Booting+Developer+Profile...;Loading+Projects...;Connecting+to+AWS...;Launching+Portfolio...;Welcome+👋" />
+
+</div>
 
 ---
 
-# 💻 About Me
+# 💻 Terminal
 
-<img align="right" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWF2aDBrN2JhbzMwOGk0NmNwa3ptYmRzMG80Z2t5dTB5dDFvMGNzZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378c04F2fjeZ7vH2/giphy.gif"/>
-
-🎓 B.Tech Computer Science
-
-🤖 Building AI Applications
-
-🦷 Dental AI Detection Project
-
-☁ AWS Cloud Practitioner
-
-🐳 Docker & Linux
-
-🌱 Currently Learning
-
-- Kubernetes
-- CI/CD
-- Agentic AI
-- Spring Boot
-- React
-- Next.js
+```text
+┌───────────────────────────────────────────────┐
+│ OS          : Linux                           │
+│ Editor      : VS Code                         │
+│ Backend     : Java • Spring Boot              │
+│ Frontend    : React • Tailwind CSS            │
+│ Cloud       : AWS                             │
+│ Database    : PostgreSQL • MongoDB            │
+│ Learning    : Kubernetes • DevOps             │
+│ Portfolio   : https://udaysharma.me           │
+└───────────────────────────────────────────────┘
+```
 
 ---
 
-# 🚀 Tech Stack
+<div align="center">
 
-<p align="center">
+<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="550">
 
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,typescript"/><br>
-
-<img src="https://skillicons.dev/icons?i=spring,react,nextjs,nodejs,express,mongodb,mysql,postgres"/><br>
-
-<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,git,github,vscode"/>
-
-</p>
+</div>
 
 ---
 
-# 📈 GitHub Stats
+# ls projects/
 
-<p align="center">
+```text
+📂 Dental AI Detection
+   └── YOLO • Python • OpenCV
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+📂 Personal Portfolio
+   └── React • Vite • Tailwind
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+📂 Real Estate Platform
+   └── MERN Stack
 
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
+📂 Cloud Labs
+   └── AWS
+```
 
 ---
 
-# 🐍 Contribution Snake
+# top -u uday
+
+```text
+CPU Usage
+
+█████████████████████░░░ Java
+
+██████████████████░░░░░ Spring Boot
+
+████████████████░░░░░░░ React
+
+███████████████░░░░░░░░ AWS
+
+██████████████░░░░░░░░░ Docker
+
+█████████████░░░░░░░░░░ Machine Learning
+```
+
+---
+
+# tech --list
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,nodejs,express,tailwind,python,cpp,mysql,postgres,mongodb,docker,git,github,linux,aws,vscode"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# git status
 
-<p align="center">
+```text
+On branch main
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&column=4&margin-w=15"/>
+✔ Building scalable software
 
-</p>
+✔ Learning every day
 
----
+✔ Open to collaboration
 
-# 📊 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
-
-</p>
+nothing to commit, working tree clean
+```
 
 ---
 
-# 🚀 Featured Projects
+# portfolio --open
 
-| Project | Description |
-|---------|-------------|
-| 🦷 Dental AI | Detect dental anomalies using YOLO |
-| 🌐 Real Estate | MERN Stack Property Booking |
-| ☁ AWS Labs | Cloud Projects |
-| 🔐 Cyber Security | Networking & Security |
+<div align="center">
+
+## 🌐 https://udaysharma.me
+
+</div>
 
 ---
 
-# 🌐 Connect with Me
+# github stats
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Udysharma&show_icons=true&theme=tokyonight"/>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Udysharma&theme=tokyonight"/>
 
 </p>
 
@@ -153,6 +132,40 @@
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DBDE,100:FC00FF&height=120&section=footer"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udysharma&layout=compact&theme=tokyonight"/>
 
 </p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Udysharma&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# ping uday
+
+<div align="center">
+
+[🌐 Portfolio](https://udaysharma.me) •
+[💼 LinkedIn](https://www.linkedin.com/in/udysharma) •
+[📧 Email](mailto:udaysharma6x@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://media.tenor.com/bCfpwMjfAi0AAAAd/cat-typing.gif" width="250">
+
+```text
+Thanks for stopping by.
+
+Happy Coding 🚀
+```
+
+</div>
