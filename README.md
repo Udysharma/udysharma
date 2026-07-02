@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Welcome+to+My+GitHub!;AI+%7C+Machine+Learning+Enthusiast;Spring+Boot+Developer;MERN+Stack+Developer;Linux+%7C+Docker+%7C+AWS;Cyber+Security+Learner;Always+Building+Something+Awesome!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Welcome+to+My+GitHub!;AI+%7C+Machine+Learning;Spring+Boot+Developer;MERN+Stack+Developer;Linux+%7C+AWS+%7C+Docker;Cyber+Security+Learner;Always+Building+Something+Awesome!" />
 </p>
 
 <p align="center">
@@ -24,14 +24,14 @@
 
 # 🚀 About Me
 
-- 🎓 B.Tech Computer Science Student at **KIET Group of Institutions**
+- 🎓 B.Tech Computer Science Student
 - 🤖 Passionate about Artificial Intelligence & Machine Learning
-- 💻 Full Stack Developer using **Spring Boot** & **MERN Stack**
-- ☁️ Learning Cloud Computing, Docker, Kubernetes & AWS
+- 💻 Full Stack Developer (Spring Boot + MERN)
+- ☁️ Exploring Cloud Computing & DevOps
 - 🐧 Linux Enthusiast
 - 🔐 Cyber Security Learner
-- 🦷 Developing AI-powered Dental X-ray Analysis Systems
-- 🚀 Passionate about solving real-world problems with technology
+- 🦷 Building AI-powered Dental Diagnosis Systems
+- 🚀 Always learning new technologies
 
 ---
 
@@ -43,7 +43,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,javascript,c,cpp,react,nextjs,nodejs,express,mongodb,postgres,mysql,docker,kubernetes,aws,linux,bash,git,github,vscode,idea,postman"/>
+<img src="https://skillicons.dev/icons?i=java,spring,python,javascript,c,cpp,react,nextjs,nodejs,express,mongodb,postgres,mysql,docker,kubernetes,aws,linux,bash,git,github,vscode,postman"/>
 
 </p>
 
@@ -51,17 +51,17 @@
 
 # 🚀 Current Focus
 
-| 🚀 Building | 🌱 Learning |
-|--------------|-------------|
+| 🚀 Working On | 🌱 Learning |
+|---------------|------------|
 | 🦷 Dental AI Detection | Docker |
-| 🤖 Machine Learning | Kubernetes |
+| 🤖 Computer Vision | Kubernetes |
 | 🌐 Spring Boot APIs | AWS |
 | 💻 MERN Applications | DevOps |
 | 🔐 Cyber Security | CI/CD |
 
 ---
 
-# 📊 GitHub Summary
+# 📊 GitHub Overview
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Udysharma&theme=tokyonight" width="100%">
@@ -74,13 +74,13 @@
 
 ---
 
-# 💻 Programming Languages
+# 💻 Languages
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Udysharma&theme=tokyonight" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Udysharma&theme=tokyonight" width="48%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Udysharma&theme=tokyonight" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Udysharma&theme=tokyonight" width="48%">
 
 </p>
 
@@ -96,7 +96,7 @@
 
 ---
 
-# 📈 GitHub Contributions
+# 📈 Contributions
 
 <p align="center">
 
@@ -114,12 +114,12 @@
 
 # 🚀 Featured Projects
 
-| 💼 Project | 📄 Description |
-|------------|----------------|
-| 🦷 **Dental AI Detection** | AI-powered panoramic dental X-ray disease detection using Deep Learning |
-| 🌐 **Full Stack Applications** | Modern web applications built using Spring Boot & MERN |
-| ☁️ **Cloud Projects** | Docker, Kubernetes & AWS deployments |
-| 🔐 **Cyber Security Labs** | Linux, Networking & Security practice |
+| Project | Description |
+|---------|-------------|
+| 🦷 **Dental AI Detection** | AI-powered panoramic dental X-ray analysis using Deep Learning |
+| 🌐 **Full Stack Applications** | MERN & Spring Boot web applications |
+| ☁️ **Cloud Deployment** | Docker, Kubernetes & AWS deployments |
+| 🔐 **Cyber Security** | Networking, Linux & Security Labs |
 
 ---
 
@@ -138,15 +138,15 @@
 <p align="center">
 
 <a href="https://github.com/Udysharma">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/udysharma/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:udaysharma6x@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:YOURMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
@@ -164,19 +164,13 @@
 ---
 
 <p align="center">
-
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="320"/>
-
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="320">
 </p>
 
 <h2 align="center">
-
 ⭐ Thanks for Visiting My Profile ⭐
-
 </h2>
 
 <p align="center">
-
-<i>"Code • Learn • Build • Repeat 🚀"</i>
-
+<i>“Code • Learn • Build • Repeat”</i>
 </p>
