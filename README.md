@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=Uday%20Sharma&fontColor=00F7FF&color=0:000000,100:7B68EE&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00F7FF,50:7B68EE,100:000000&text=Uday%20Sharma&fontColor=ffffff&fontSize=65&animation=fadeIn&fontAlignY=38&desc=AI%20•%20Full%20Stack%20Developer%20•%20DevOps%20•%20Cyber%20Security&descAlignY=60&descSize=20"/>
 </p>
 <p align="center">
   
