@@ -50,7 +50,7 @@ whoami:
 
 ## 📖 About Me
 
-<img align="right" width="340" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"/>
 
 - 🎓 B.Tech Computer Science Student
 - 💻 Building full-stack apps that scale — Java • Spring Boot • React
@@ -182,7 +182,7 @@ timeline
 
 <div align="center">
 
-<img width="300" src="https://media.tenor.com/bCfpwMjfAi0AAAAd/cat-typing.gif"/>
+<img width="300" src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif"/>
 
 <br><br>
 
