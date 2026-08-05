@@ -113,12 +113,7 @@ Target:
 # 📊 GitHub Summary
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Udysharma&theme=github_dark" width="100%"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Udysharma&theme=github_dark" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Udysharma&theme=github_dark&utcOffset=5.5" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Udysharma&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=94A3B8" width="100%"/>
 </p>
 
 ---
@@ -126,8 +121,7 @@ Target:
 # 💻 Programming Languages
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Udysharma&theme=github_dark" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Udysharma&theme=github_dark" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udysharma&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=94A3B8" width="60%"/>
 </p>
 
 ---
