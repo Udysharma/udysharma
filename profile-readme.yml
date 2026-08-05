@@ -1,0 +1,64 @@
+name: Update Profile README Assets
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # runs daily at 03:00 UTC
+  workflow_dispatch:        # lets you trigger it manually from the Actions tab
+  push:
+    paths:
+      - ".github/workflows/profile-readme.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-static-readme-assets
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # 1. Snake contribution animation
+      - name: Generate snake animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            readme-assets/snake-dark.svg?palette=github-dark
+
+      # 2. Streak stats card
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=${{ github.repository_owner }}&theme=dark&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6
+          path: readme-assets/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 3. GitHub summary / language cards
+      #    (swap secrets.GITHUB_TOKEN for a personal access token secret
+      #    if you want private-repo stats included)
+      - name: Generate GitHub summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          UTC_OFFSET: 5.5
+          AUTO_PUSH: false   # we commit everything together at the end instead
+
+      - name: Rename cards into readme-assets
+        run: |
+          mkdir -p readme-assets/cards
+          cp profile-summary-card-output/github_dark/0-profile-details.svg readme-assets/cards/profile-details.svg
+          cp profile-summary-card-output/github_dark/3-stats.svg readme-assets/cards/stats.svg
+          cp profile-summary-card-output/github_dark/1-repos-per-language.svg readme-assets/cards/languages.svg
+
+      - name: Commit and push generated assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add readme-assets
+          git commit -m "chore: update profile README assets" || exit 0
+          git push
