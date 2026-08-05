@@ -1,9 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00F7FF,50:7B68EE,100:000000&text=Uday%20Sharma&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20DevOps%20Learner&descAlignY=60&descSize=18"/>
-</p>
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749695-0429a916-2c0f-4bb8-b7e7-5f2d2f5e7d87.gif" width="100%" alt="Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:1E3A8A,100:0F172A&text=Uday%20Sharma&fontColor=ffffff&fontSize=54&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20DevOps%20Learner&descAlignY=60&descSize=16"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Uday Sharma</h1>
@@ -12,12 +8,12 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub!;AI+%7C+Machine+Learning+Enthusiast;Spring+Boot+Developer;MERN+Stack+Developer;Linux+%7C+Docker+%7C+AWS;Cyber+Security+Learner;Open+Source+Contributor;Always+Building+Something+Awesome!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub!;AI+%7C+Machine+Learning+Enthusiast;Spring+Boot+Developer;MERN+Stack+Developer;Linux+%7C+Docker+%7C+AWS;Cyber+Security+Learner;Open+Source+Contributor;Always+Building+Something+Awesome!"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Udysharma&label=Profile%20Views&style=for-the-badge&color=blueviolet"/>
-  <img src="https://img.shields.io/github/followers/Udysharma?style=for-the-badge&logo=github"/>
+  <img src="https://komarev.com/ghpvc/?username=Udysharma&label=Profile%20Views&style=for-the-badge&color=1E3A8A"/>
+  <img src="https://img.shields.io/github/followers/Udysharma?style=for-the-badge&logo=github&logoColor=white&color=1E3A8A&labelColor=0F172A"/>
 </p>
 
 <p align="center">
@@ -29,8 +25,6 @@
 </p>
 
 ---
-
-<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/216655848-eabb7c0e-35d6-4c25-bfcb-65d4b6d1c6a0.gif"/>
 
 # 🚀 About Me
 
@@ -84,7 +78,7 @@ Mission:
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/Cyber_Security-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cyber_Security-1E3A8A?style=for-the-badge&logoColor=white"/>
 </p>
 
 ---
@@ -119,12 +113,12 @@ Target:
 # 📊 GitHub Summary
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Udysharma&theme=tokyonight" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Udysharma&theme=github_dark" width="100%"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Udysharma&theme=tokyonight" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Udysharma&theme=tokyonight&utcOffset=5.5" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Udysharma&theme=github_dark" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Udysharma&theme=github_dark&utcOffset=5.5" width="48%"/>
 </p>
 
 ---
@@ -132,8 +126,8 @@ Target:
 # 💻 Programming Languages
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Udysharma&theme=tokyonight" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Udysharma&theme=tokyonight" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Udysharma&theme=github_dark" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Udysharma&theme=github_dark" width="48%"/>
 </p>
 
 ---
@@ -141,7 +135,7 @@ Target:
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Udysharma&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Udysharma&theme=dark&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6"/>
 </p>
 
 ---
@@ -149,7 +143,7 @@ Target:
 # 📈 GitHub Contributions
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Udysharma&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Udysharma&hide_border=true&area=true&bg_color=0D1117&color=94A3B8&line=3B82F6&point=3B82F6" width="100%"/>
 </p>
 
 <p align="center">
@@ -226,24 +220,20 @@ Target:
 # 📚 Favorite Technologies
 
 <p align="center">
-<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ---
-
-<p align="center">
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="650"/>
-</p>
 
 # 🌐 Connect With Me
 
@@ -264,7 +254,7 @@ Target:
 # 👀 Visitor Counter
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Udysharma&label=Visitors&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=Udysharma&label=Visitors&style=for-the-badge&color=1E3A8A"/>
 </p>
 
 ---
@@ -280,7 +270,7 @@ Target:
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B68EE&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A8A&height=120&section=footer"/>
 </p>
 
 <h2 align="center">
@@ -289,12 +279,4 @@ Target:
 
 <p align="center">
 <i>"Code • Learn • Build • Repeat 🚀"</i>
-</p>
-
-<p align="center">
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="320"/>
 </p>
